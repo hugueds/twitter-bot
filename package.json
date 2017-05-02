@@ -1,0 +1,24 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Twitter Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hugueds/twitter-bot.git"
+  },
+  "author": "Hugueds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugueds/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/hugueds/twitter-bot#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "twit": "^2.2.5",
+    "twitter": "^1.7.0"
+  }
+}
